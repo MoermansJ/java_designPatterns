@@ -6,8 +6,8 @@ import java.util.List;
 public class Inventory {
     //properties
     private static Inventory inventory;
-
-    private static List<Product> productList;
+    private List<Product> productList;
+    //productlist en andere properties NIET static zetten want deze hangen vast aan de (enige) instantie van deze klasse, de klasse heeft dan als enige property een instantie van haarzelf
 
 
     //constructors
@@ -35,6 +35,8 @@ public class Inventory {
     }
 
     public void remove(Product product) {
-        productList = productList.stream().filter(element -> !element.equals(product)).toList();
+        //not an ideal solution as we're using too much resources by converting to stream to list to ....
+//        productList = productList.stream().filter(element -> !element.equals(product)).toList();
+        productList.remove(product);
     }
 }

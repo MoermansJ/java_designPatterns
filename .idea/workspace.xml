@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aa2c8e4-5e99-46b1-9676-3268096f0ee8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/decorator/ChristmasTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/decorator/DecoratorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/decorator/RealChristmasTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/decorator/TreeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/decorator/TreeDecorators/BubbleLightsTreeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/decorator/TreeDecorators/GarlandTreeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/decorator/TreeDecorators/TreeTopperTreeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/factory/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/factory/ComputerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/factory/FactoryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/factory/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/factory/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/singleton/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/singleton/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/singleton/SingletonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/singleton/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/singleton/Inventory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/jonne/Desktop/java_designPatterns",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
