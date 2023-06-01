@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aa2c8e4-5e99-46b1-9676-3268096f0ee8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/composite/Butter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/composite/CompositeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/composite/Flour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/composite/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/composite/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/composite/Mix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/observer/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/observer/Influencer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/observer/ObserverMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/observer/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/strategy/ArraySorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/strategy/ArraySortingAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/strategy/BubbleSortAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/strategy/MergeSortAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/strategy/StrategyMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/singleton/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/singleton/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/factory/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/factory/Computer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +69,23 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StrategyMain">
+    <configuration name="CompositeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.composite.CompositeMain" />
+      <module name="abcdefghijklmnopqrstuvwxyz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DecoratorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="be.intecbrussel.decorator.DecoratorMain" />
       <module name="abcdefghijklmnopqrstuvwxyz" />
@@ -69,8 +99,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ObserverMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.observer.ObserverMain" />
+      <module name="abcdefghijklmnopqrstuvwxyz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.strategy.StrategyMain" />
+      <module name="abcdefghijklmnopqrstuvwxyz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StrategyMain" />
+        <item itemvalue="Application.CompositeMain" />
+        <item itemvalue="Application.ObserverMain" />
         <item itemvalue="Application.DecoratorMain" />
       </list>
     </recent_temporary>
